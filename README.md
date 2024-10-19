@@ -1,5 +1,6 @@
 # Data-Analystics-Project---Python
 #Amazon Sales Analysis
+
 Python, Pandas, Matplotlib
 
 Developed a data analytics project to analyze and visualize Amazon sales data, identifying sales trends, customer preferences, and product categories with the highest revenue.
